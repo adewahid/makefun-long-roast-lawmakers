@@ -8,7 +8,7 @@ One satirical sentence, at most 320 characters, roasting lawmakers who would reg
 
 `main.ts` writes the line to `/output/entry.txt`:
 
-> The senator who wrote a 400-page bill to regulate the internet just sent the committee a screenshot of his Word document pasted into another Word document, saved as 'final_FINAL_v2_REAL.pdf.docx'.
+> The senator who wrote a 400-page bill to regulate the internet just emailed the committee a screenshot of his Word document pasted into another Word document, saved as 'final_FINAL_v2_REAL.pdf.docx'.
 
 Run it with Node 22:
 
